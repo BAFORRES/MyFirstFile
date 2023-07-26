@@ -12,14 +12,14 @@
   </docinfo>
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
+    <title>My First Book</title>
     <subtitle>An example to get you started</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
           <personname>You</personname>
-          <department>Your department</department>
+          <department>Math</department>
           <institution>Your institution</institution>
         </author>
         <date>
